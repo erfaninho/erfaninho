@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Erfan
 
-<!--
-**erfaninho/erfaninho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python/Django developer focused on APIs, testing, automation, and practical AI/data tools.
 
-Here are some ideas to get you started:
+## What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python and Django applications
+- REST APIs and backend tooling
+- Testing, debugging, and reliability improvements
+- AI/data science experiments and practical automation
+- Open-source bug fixes and documentation improvements
+
+## OSS Contribution Focus
+
+I'm currently looking for focused open-source issues where I can help with:
+
+- Small bug fixes
+- Test coverage
+- API/backend issues
+- Documentation improvements
+- Reproduction scripts and debugging
+
+## Tech Stack
+
+Python, Django, Django REST Framework, JavaScript, TypeScript, React, SQL, Git, GitHub Actions
+
+## Links
+
+- Website: https://erfaninho.github.io/
+- GitHub: https://github.com/erfaninho
